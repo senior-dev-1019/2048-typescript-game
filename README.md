@@ -5,7 +5,7 @@
 <img alt="workflow" src="https://img.shields.io/github/workflow/status/mat-sz/react-letter/Node.js%20CI%20(yarn)">
 
 This is a reimplementation of Gabriele Cirulli's excellent [2048](https://play2048.co) game, built with React, Redux
-and TypeScript. Unlike other React-based implementations, only functional components (with hooks) are used here. This project doesn't rely on canvas or element refs. This project was bootstrapped using the [mat-sz](https://github.com/mat-sz/cra-template-mat-sz) CRA template.
+and TypeScript. Unlike other React-based implementations, only functional components (with hooks) are used here. This project doesn't rely on canvas or element refs. This project was bootstrapped using the [mat-sz](https://github.com/Roman-Oshurkevich/cra-template-mat-sz) CRA template.
 
 ## Running/Development
 
